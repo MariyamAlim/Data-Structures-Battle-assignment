@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestHashTables" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-08-31T21:17:05" hostname="DESKTOP-RR4I1PM" time="0.039">
+  <properties/>
+  <testcase name="testHashtable1()" classname="TestHashTables" time="0.03"/>
+  <testcase name="testHashtable2()" classname="TestHashTables" time="0.001"/>
+  <testcase name="testHashtable3()" classname="TestHashTables" time="0.001"/>
+  <testcase name="testHashtable4()" classname="TestHashTables" time="0.001"/>
+  <testcase name="testHashtable5()" classname="TestHashTables" time="0.0"/>
+  <testcase name="testHashtable6()" classname="TestHashTables" time="0.001"/>
+  <testcase name="testHashtable7()" classname="TestHashTables" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
